@@ -7,8 +7,6 @@ import CharInfo from "../charInfo/CharInfo";
 import ErrorBoundary from "../errorBoundaty/ErrorBoundary";
 import CharSearchForm from "../charSearchForm/CharSearchForm";
 
-
-
 import decoration from '../../resources/img/vision.png';
 
 const MainPage = () => {
